@@ -1460,7 +1460,7 @@ function App() {
               }
 
               if (!user) {
-                return <LoginScreen />;
+                return <LandingPage />;
               }
 
               if (isAppLocked) {
