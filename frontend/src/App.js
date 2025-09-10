@@ -416,7 +416,7 @@ const LandingPage = () => {
             Ready to Get Organized?
           </h2>
           <p className="text-xl text-indigo-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of users who trust RemindSave to keep their important information safe and organized.
+            Join thousands of users who trust MindBox to keep their important information safe and organized.
           </p>
           <button
             onClick={login}
