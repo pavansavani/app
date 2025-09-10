@@ -441,7 +441,7 @@ const LandingPage = () => {
               <div className="h-8 w-8 flex items-center justify-center rounded-lg bg-gradient-to-r from-indigo-600 to-purple-600">
                 <Lock className="h-5 w-5 text-white" />
               </div>
-              <span className="ml-2 text-lg font-semibold text-gray-900 dark:text-white">RemindSave</span>
+              <span className="ml-2 text-lg font-semibold text-gray-900 dark:text-white">MindBox</span>
             </div>
           </div>
           <p className="text-center text-gray-500 dark:text-gray-400 mt-4">
