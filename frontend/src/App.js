@@ -1378,7 +1378,7 @@ const Dashboard = () => {
                 <Lock className="h-5 w-5 text-white" />
               </div>
               <h1 className="ml-3 text-xl font-semibold text-gray-900 dark:text-white">
-                RemindSave
+                MindBox
               </h1>
             </div>
             <div className="flex items-center space-x-4">
