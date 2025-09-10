@@ -224,7 +224,7 @@ const LandingPage = () => {
               <Lock className="h-6 w-6 text-white" />
             </div>
             <h1 className="ml-3 text-2xl font-bold text-gray-900 dark:text-white">
-              RemindSave
+              MindBox
             </h1>
           </div>
           <button
